@@ -43,7 +43,7 @@ sudoku
 ### ダウンロード・コンパイル
 （C言語を使える環境で）以下のコマンドを順番に打ち込む。
 ```
-$ git clone hogehoge
+$ git clone https://github.com/hayashi-open/sudoku
 $ cd sudoku 
 $ make compile
 ```
