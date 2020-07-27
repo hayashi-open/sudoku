@@ -45,7 +45,7 @@ sudoku
 フォルダ`sudoku`の中に実行ファイル`sudokuSolve`が追加される
 
 ### ダウンロード・コンパイル
-（C言語を使える環境で）以下のコマンドを順番に打ち込む。
+（gitとかC言語を使える環境で）以下のコマンドを順番に打ち込む。
 ```
 $ git clone https://github.com/hayashi-open/sudoku
 $ cd sudoku 
