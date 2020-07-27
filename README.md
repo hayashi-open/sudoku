@@ -31,9 +31,13 @@ sudoku
 |  |- setting.h
 |
 |- np
-   |- demo1.dat
-   |- demo2.dat
-   |- save.dat
+|  |- demo1.dat
+|  |- demo2.dat
+|  |- save.dat
+|
+|- logdata
+   |- np_findpair.txt
+   |- np_findpair.txt_log
 ```
 
 + コンパイル後
